@@ -1,4 +1,6 @@
-Search repositories by categories with these topic keywords: computers, consoles, arcades, others, demistify, sockit, mergefork
+Search repositories by categories with these topic keywords: computers, consoles, arcades, others, mister, demistify, sockit, mergefork
+
+Repositories with the 'mister' topic are mister cores adapted to work with SoCkit's MiSTer framework.
 
 Repositories with the 'mergefork' topic are just a mirror and need to be up-to-date with the upstream repository.
 
