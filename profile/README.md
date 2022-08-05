@@ -2,7 +2,7 @@ Search repositories by categories with these topic keywords: computers, consoles
 
 **Repositories with the 'mister' topic contain MiSTer cores ported to SoCkit board.**
 
-Repositories with the 'mergefork' topic are just a mirror and need to be up-to-date with the upstream repository.
+Repositories with the 'mergefork' topic are just a mirror and need to be up-to-date with the upstream repository. If you see that the repo has commits behind just go to the "forked from" repo link and get the core from there.
 
 Discussion group on [Telegram group](https://t.me/Sockit_FPGA) & [Discord channel](https://discord.gg/YDdmtwh) 
 
