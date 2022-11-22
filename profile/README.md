@@ -6,6 +6,8 @@ Repositories with the 'mergefork' topic are just a mirror and need to be up-to-d
 
 Discussion group on [Telegram group](https://t.me/Sockit_FPGA) & [Discord channel](https://discord.gg/YDdmtwh) 
 
+More MiSTer compatible cores can be found at https://github.com/noemi-abril
+
 <!--
 
 **Here are some ideas to get you started:**
