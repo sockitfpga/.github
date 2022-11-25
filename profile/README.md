@@ -6,7 +6,9 @@ Repositories with the 'mergefork' topic are just a mirror and need to be up-to-d
 
 Discussion group on [Telegram group](https://t.me/Sockit_FPGA) & [Discord channel](https://discord.gg/YDdmtwh) 
 
-More MiSTer compatible cores can be found at https://github.com/noemi-abril
+JOTEGO cores for SoCkit MiSTer platform can be found at [JTBIN](https://github.com/jotego/jtbin/tree/master/sockit)
+
+More MiSTer compatible cores can be found at [Noemi's GitHub](https://github.com/noemi-abril)
 
 <!--
 
