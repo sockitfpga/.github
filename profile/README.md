@@ -8,7 +8,7 @@ Discussion group on [Telegram group](https://t.me/Sockit_FPGA) & [Discord channe
 
 JOTEGO cores for SoCkit MiSTer platform can be found at [JTBIN](https://github.com/jotego/jtbin/tree/master/sockit)
 
-More MiSTer compatible cores can be found at [Noemi's GitHub](https://github.com/noemi-abril)
+More MiSTer compatible cores can be found at [Noemi's GitHub](https://github.com/noemi-abril) and [Patreon](https://www.patreon.com/noemiabril)
 
 <!--
 
